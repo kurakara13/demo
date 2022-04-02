@@ -1,126 +1,17 @@
 {
   "posts": [
-        {
-            "id": 1,
-            "author": null,
-            "title": "Nahrungsmittelkonzern: Nestlé baut Verwaltungsrat um – Apple-Finanzvorstand Luca Maestri neu im Gremium",
-            "description": "Neben Maestri verstärkt auch Schneider-Electric-Vertriebschefin Chris Leong das Aufsichtsgremium. Ein anderes prominentes Mitglied scheidet dafür überraschend aus.",
-            "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nahrungsmittelkonzern-nestle-baut-verwaltungsrat-um-apple-finanzvorstand-luca-maestri-neu-im-gremium/28077840.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/luca-maestri/28077982/5-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-17T11:31:58+00:00"
-        },
-        {
-            "id": 2,
-            "title": "Versicherung: Sturmtief Ylenia fegt über Deutschland – Was Betroffene von Unwetterschäden jetzt wissen müssen",
-            "description": "In zahlreichen Regionen Deutschlands ist es zu Stürmen mit Orkanböen gekommen. Wichtig ist, sein Hab und Gut vor solchen Extremwetterlagen zu schützen.",
-            "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/versicherer/versicherung-sturmtief-ylenia-fegt-ueber-deutschland-was-betroffene-von-unwetterschaeden-jetzt-wissen-muessen/28077560.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/sturmtief-ylenia/28079036/2-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-17T13:31:09+00:00"
-        },
-        {
-            "id": 3,
-            "title": "Aktien und Fonds: Ausgerechnet Schwellenländer trotzen der Fed-Zinswende – Sechs Hoffnungs-Aktien weltweit",
-            "description": "Schwellenländer-Investments gelten als besonders anfällig, wenn die Zinsen in den USA steigen. Aktuell aber entwickeln sie sich gut. Wo Experten Chancen sehen.",
-            "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/aktien-und-fonds-ausgerechnet-schwellenlaender-trotzen-der-fed-zinswende-sechs-hoffnungs-aktien-weltweit/28083264.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/singapur/28083358/5-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-21T03:02:19+00:00"
-        },
-        {
-            "id": 4,
-            "title": "Brzezinski-Buch erklärt Putins Vorgehen: „Ohne die Ukraine ist Russland keine Großmacht“",
-            "description": "Vor 25 Jahren beschrieb der US-Politikberater Zbigniew Brzezinski die Bedeutung der Ukraine für Russland. Sein Buch liest sich wie eine Prophezeiung.",
-            "url": "https://www.handelsblatt.com/politik/international/brzezinski-buch-erklaert-putins-vorgehen-ohne-die-ukraine-ist-russland-keine-grossmacht/28092574.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/feiern-in-der-ukraine/28092814/2-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-22T18:52:52+00:00"
-        },
-        {
-            "id": 5,
-            "title": "+++ Ukraine-Krise +++: Ukraine will durch OSZE mit Russland verhandeln – Keine Sperrung des ukrainischen Luftraums geplant",
-            "description": "Deutsche Unternehmen vor Scholz' Moskau-Reise: „Weder Kontakte noch Projekte” einfrieren +++ Klitschko: Putin strebt nach Weltmacht +++ USA fordern auch OSZE-Personal zum Abzug auf +++ Der Newsblog.",
-            "url": "https://www.handelsblatt.com/politik/international/ukraine-krise-news-ukraine-will-durch-osze-mit-russland-verhandeln-keine-sperrung-des-ukrainischen-luftraums-geplant/27982126.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/ukrainische-soldaten/28064982/2-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-13T19:28:00+00:00"
-        },
-        {
-            "id": 6,
-            "title": "Märkte: Wall Street schließt im Minus: Ukraine-Konflikt und Geldpolitik dominieren den Handel an den US-Märkten",
-            "description": "Dow Jones, S&P 500 und Nasdaq notierten zum dritten Tag in Folge schwächer. Rohöl kletterte unterdessen auf den höchsten Stand seit 2014.",
-            "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-wall-street-schliesst-im-minus-ukraine-konflikt-und-geldpolitik-dominieren-den-handel-an-den-us-maerkten/28068892.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/haendler-an-der-wall-street-/27873898/4-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-14T22:11:02+00:00"
-        },
-        {
-            "id": 7,
-            "title": "Batteriehersteller Varta investiert 33 Millionen Euro in Graz",
-            "description": "Der Batteriehersteller Varta setzt in Graz ein deutliches Zeichen für den Ausbau der Batterie-Forschung.",
-            "url": "https://www.diepresse.com/6099602/Forschung_Batteriehersteller-Varta-investiert-33-Millionen-Euro-in?from=rss",
-            "source": "DiePresse.com",
-            "image": null,
-            "category": "business",
-            "language": "de",
-            "country": "at",
-            "published_at": "2022-02-15T13:48:00+00:00"
-        },
-        {
-            "id": 8,
-            "title": "Technologiebranche: Raus aus der Value-Falle: Wie Silver Lake die Software AG endlich auf Wachstumskurs bringen will",
-            "description": "Der MDax-Konzern ist auf vielen Zukunftsfeldern unterwegs. Doch fehlte bislang die Wachstumsmentalität. Diese sollen Kulturwandelprogramme und der wohl größte Tech-Investor der Welt bringen.",
-            "url": "https://www.handelsblatt.com/technik/it-internet/technologiebranche-raus-aus-der-value-falle-wie-silver-lake-die-software-ag-endlich-auf-wachstumskurs-bringen-will/28093134.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/serverraum/28093330/2-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-22T15:36:32+00:00"
-        },
-        {
-            "id": 9,
-            "title": "Handelsblatt Crime: Botschaft von Edward Snowdens Schutzengeln: Das haben sie dem US-Whistleblower zu sagen",
-            "description": "2013 halfen sie Edward Snowden aus höchster Not, heute haben seine Lebensretter eine Nachricht für den US-Whistleblower. Im Handelsblatt-Podcast öffnen sie ihre Herzen.",
-            "url": "https://www.handelsblatt.com/audio/crime/handelsblatt-crime-botschaft-von-edward-snowdens-schutzengeln-das-haben-sie-dem-us-whistleblower-zu-sagen/28049420.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/crime/26124786/7-format2020.png",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-13T07:10:33+00:00"
-        },
-        {
-            "id": 10,
-            "title": "+++ Corona-News +++: WHO meldet starken Rückgang der Corona-Fallzahlen – Lauterbach will RKI Befugnis über Genesenenstatus entziehen",
-            "description": "US-Regierung fordert 30 Milliarden Dollar vom Kongress im Kampf gegen Pandemie +++ Berlin und Schleswig-Holstein lockern Regeln +++ Bayern bekennt sich zu Teil-Impfpflicht +++ Der Newsblog.",
-            "url": "https://www.handelsblatt.com/politik/deutschland/corona-news-who-meldet-starken-rueckgang-der-corona-fallzahlen-lauterbach-will-rki-befugnis-ueber-genesenenstatus-entziehen-/25471608.html",
-            "source": "Handelsblatt",
-            "image": "https://www.handelsblatt.com/images/coronavirus-pcr-labor/28053864/2-format2020.jpg",
-            "category": "business",
-            "language": "de",
-            "country": "de",
-            "published_at": "2022-02-16T04:11:30+00:00"
-        }
+      {
+        "id": 1,
+        "title1": "Post 55"
+      },
+      {
+        "id": 2,
+        "title2": "Post 2"
+      },
+      {
+        "id": 3,
+        "title3": "Post 3"
+      }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
