@@ -1,17 +1,34 @@
 {
     "posts": [
       {
-          "id": 1,
-          "userId": 1,
-          "title": "Nahrungsmittelkonzern: Nestlé baut Verwaltungsrat um – Apple-Finanzvorstand Luca Maestri neu im Gremium",
-          "description": "Neben Maestri verstärkt auch Schneider-Electric-Vertriebschefin Chris Leong das Aufsichtsgremium. Ein anderes prominentes Mitglied scheidet dafür überraschend aus.",
-          "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nahrungsmittelkonzern-nestle-baut-verwaltungsrat-um-apple-finanzvorstand-luca-maestri-neu-im-gremium/28077840.html",
-          "source": "Handelsblatt",
-          "image": "https://www.handelsblatt.com/images/luca-maestri/28077982/5-format2020.jpg",
-          "category": "business",
-          "language": "de",
-          "country": "de",
-          "published_at": "2022-02-17T11:31:58+00:00"
+            "id": 1,
+            "userId": 1,
+            "title": "Nahrungsmittelkonzern: Nestlé baut Verwaltungsrat um – Apple-Finanzvorstand Luca Maestri neu im Gremium",
+            "description": "Neben Maestri verstärkt auch Schneider-Electric-Vertriebschefin Chris Leong das Aufsichtsgremium. Ein anderes prominentes Mitglied scheidet dafür überraschend aus.",
+            "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/nahrungsmittelkonzern-nestle-baut-verwaltungsrat-um-apple-finanzvorstand-luca-maestri-neu-im-gremium/28077840.html",
+            "source": "Handelsblatt",
+            "image": "https://www.handelsblatt.com/images/luca-maestri/28077982/5-format2020.jpg",
+            "category": "business",
+            "language": "de",
+            "country": "de",
+            "published_at": "2022-02-17T11:31:58+00:00",
+            "user":    
+            {
+                "id": 1,
+                "name": "Leanne Graham",
+                "username": "Bret",
+                "email": "Sincere@april.biz",
+                "address": {
+                    "street": "Kulas Light",
+                    "suite": "Apt. 556",
+                    "city": "Gwenborough",
+                    "zipcode": "92998-3874",
+                    "geo": {
+                        "lat": "-37.3159",
+                        "lng": "81.1496"
+                    }
+                }
+            },
       },
       {
           "id": 2,
