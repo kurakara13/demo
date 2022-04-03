@@ -11,23 +11,7 @@
           "category": "business",
           "language": "de",
           "country": "de",
-          "published_at": "2022-02-17T11:31:58+00:00",
-          "user": {
-            "id": 1,
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "Sincere@april.biz",
-            "address": {
-                "street": "Kulas Light",
-                "suite": "Apt. 556",
-                "city": "Gwenborough",
-                "zipcode": "92998-3874",
-                "geo": {
-                    "lat": "-37.3159",
-                    "lng": "81.1496"
-                }
-            },
-          }
+          "published_at": "2022-02-17T11:31:58+00:00"
       },
       {
           "id": 2,
@@ -40,23 +24,7 @@
           "category": "business",
           "language": "de",
           "country": "de",
-          "published_at": "2022-02-17T13:31:09+00:00",
-          "user": {
-            "id": 1,
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "Sincere@april.biz",
-            "address": {
-                "street": "Kulas Light",
-                "suite": "Apt. 556",
-                "city": "Gwenborough",
-                "zipcode": "92998-3874",
-                "geo": {
-                    "lat": "-37.3159",
-                    "lng": "81.1496"
-                }
-            },
-          }
+          "published_at": "2022-02-17T13:31:09+00:00"
       },
       {
           "id": 3,
@@ -69,23 +37,7 @@
           "category": "business",
           "language": "de",
           "country": "de",
-          "published_at": "2022-02-21T03:02:19+00:00",
-          "user": {
-            "id": 3,
-            "name": "Clementine Bauch",
-            "username": "Samantha",
-            "email": "Nathan@yesenia.net",
-            "address": {
-                "street": "Douglas Extension",
-                "suite": "Suite 847",
-                "city": "McKenziehaven",
-                "zipcode": "59590-4157",
-                "geo": {
-                    "lat": "-68.6102",
-                    "lng": "-47.0653"
-                }
-            }
-          }
+          "published_at": "2022-02-21T03:02:19+00:00"
       },
       {
           "id": 4,
@@ -98,23 +50,7 @@
           "category": "business",
           "language": "de",
           "country": "de",
-          "published_at": "2022-02-22T18:52:52+00:00",
-          "user": {
-            "id": 1,
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "Sincere@april.biz",
-            "address": {
-                "street": "Kulas Light",
-                "suite": "Apt. 556",
-                "city": "Gwenborough",
-                "zipcode": "92998-3874",
-                "geo": {
-                    "lat": "-37.3159",
-                    "lng": "81.1496"
-                }
-            },
-          }
+          "published_at": "2022-02-22T18:52:52+00:00"
       },
       {
           "id": 5,
@@ -127,23 +63,7 @@
           "category": "business",
           "language": "de",
           "country": "de",
-          "published_at": "2022-02-13T19:28:00+00:00",
-          "user": {
-            "id": 2,
-            "name": "Ervin Howell",
-            "username": "Antonette",
-            "email": "Shanna@melissa.tv",
-            "address": {
-                "street": "Victor Plains",
-                "suite": "Suite 879",
-                "city": "Wisokyburgh",
-                "zipcode": "90566-7771",
-                "geo": {
-                    "lat": "-43.9509",
-                    "lng": "-34.4618"
-                }
-            },
-          }
+          "published_at": "2022-02-13T19:28:00+00:00"
       }
     ],
     "comments": [
@@ -173,8 +93,8 @@
           "catchPhrase": "Multi-layered client-server neural-net",
           "bs": "harness real-time e-markets"
           }
-        },
-        {
+      },
+      {
           "id": 2,
           "name": "Ervin Howell",
           "username": "Antonette",
@@ -196,8 +116,8 @@
           "catchPhrase": "Proactive didactic contingency",
           "bs": "synergize scalable supply-chains"
           }
-        },
-        {
+      },
+      {
           "id": 3,
           "name": "Clementine Bauch",
           "username": "Samantha",
@@ -219,6 +139,6 @@
           "catchPhrase": "Face to face bifurcated interface",
           "bs": "e-enable strategic applications"
           }
-        }
+      }
     ]
   }
